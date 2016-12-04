@@ -1,0 +1,14 @@
+wordCutOff = 0
+maxIter = 100
+adaAlpha = 0.03
+dropProb = 0
+wordEmbSize = 30
+otherEmbSize = 10
+rnnHiddenSize = 30
+hiddenSize = 30
+evalPerIter = 1
+wordEmbFineTune = true
+verboseIter = 1
+
+
+

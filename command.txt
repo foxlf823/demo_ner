@@ -1,0 +1,1 @@
+ner -option option.txt -train data/annotated -dev data/annotated -trainnlp data/nlp -devnlp data/nlp -test data/annotated -testnlp data/nlp
